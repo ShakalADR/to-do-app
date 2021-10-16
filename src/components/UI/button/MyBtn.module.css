@@ -1,0 +1,8 @@
+:local(.MyBtn) {
+    padding: 5px 15px;
+    color: #87eba5;
+    font-size: 17px;
+    background: transparent;
+    border: 1px solid #87eba5;
+    cursor: pointer;
+}
