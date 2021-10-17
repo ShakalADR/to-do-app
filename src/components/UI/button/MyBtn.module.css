@@ -6,3 +6,7 @@
     border: 1px solid #87eba5;
     cursor: pointer;
 }
+:local(.MyBtn:active){
+    transform: scale(.95);
+    transition-duration: 200ms;
+}

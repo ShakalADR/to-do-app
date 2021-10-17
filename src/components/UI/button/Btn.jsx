@@ -4,7 +4,7 @@ const BtnStyles = require('./MyBtn.module.css')
 function Btn({children, ...props}) {
     return (
         <button {...props} className={BtnStyles.MyBtn}>
-            {children}
+                {children}
         </button>
     )
 }
